@@ -1,7 +1,7 @@
 /* Variables CSS servant de design tokens pour l'ensemble du site */
 :root {
-    --accent: #ff009d;
-    --accent-dark: #ff009d;
+    --accent: #810250;
+    --accent-dark: #810250;
     --ink-900: #034e01;
     --ink-700: #560d45;
     --ink-400: #d2d569;
