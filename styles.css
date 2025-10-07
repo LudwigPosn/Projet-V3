@@ -1,14 +1,14 @@
 /* Variables CSS servant de design tokens pour l'ensemble du site */
 :root {
-    --accent: #ff8258;
-    --accent-dark: #e46a41;
-    --ink-900: #1f2a3d;
-    --ink-700: #596074;
-    --ink-400: #9aa3b8;
-    --surface: #ffffff;
-    --surface-soft: #eef2fb;
-    --background: #f5f7fc;
-    --border: rgba(31, 42, 61, 0.09);
+    --accent: #810250;
+    --accent-dark: #810250;
+    --ink-900: #034e01;
+    --ink-700: #560d45;
+    --ink-400: #d2d569;
+    --surface: #c5ff6d;
+    --surface-soft: #9febe4;
+    --background: #eaf0ff;
+    --border: rgba(41, 143, 56, 0.09);
     --shadow-soft: 0 18px 45px rgba(31, 42, 61, 0.08);
     --shadow-light: 0 10px 30px rgba(31, 42, 61, 0.05);
     --radius-xl: 28px;
